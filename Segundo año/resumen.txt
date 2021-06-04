@@ -1,0 +1,8 @@
+El segundo año realicé las siguientes asignaturas:
+  1. ASGBD01
+  2. ASO
+  3. EIE
+  4. FOL
+  5. IAW
+  6. SAD
+  7. SRI
