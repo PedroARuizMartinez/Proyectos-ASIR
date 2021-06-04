@@ -1,0 +1,6 @@
+El primer año realicé las siguientes asignaturas:
+  1. Base de Datos (GDB01)
+  2. Fundamentos del hardware
+  3. Instalación de Sistemas Operativos (ISO)
+  4. Lenguaje de Marcas.
+  5. Planificación y Administración de Redes.
